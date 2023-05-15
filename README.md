@@ -4,7 +4,11 @@
 
 ### Description
 
-A game of rock, paper, scissors using only javascript against the computer.
+A game of rock, paper, scissors using only javascript against the computer.<br><br>
+
+Deployed link: https://tarajevans.github.io/RockPaperScissors/<br><br>
+
+Repository: https://github.com/tarajevans/RockPaperScissors<br><br>
 
 ![Screenshot of game](rpsSS.png)
 
